@@ -1,7 +1,7 @@
 CSE4076 IMAGE AND VIDEO ANALYTICS
 LAB EXPERIMENT-1
-NAME: Dhaarani Pushpam S
-REG NO: 21MIA1052
+#NAME: Dhaarani Pushpam S
+#REG NO: 21MIA1052
 
 Lab Task 1: Setup and Basic Extraction
 Objective:
